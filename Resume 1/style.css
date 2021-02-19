@@ -1,0 +1,159 @@
+body{
+    background-color: powderblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.main{
+    background-color: white;
+    display: block;
+    margin-top: 20px;
+    padding-bottom: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#header{
+    display: block;
+    font-size: 25px;
+    font-style: bold;
+    background-color: blue;
+    margin-left: 30px;
+    margin-right:30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    color:white;
+    padding-left: 300px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.abt{
+    background-color: white;
+    margin-left: 30px;
+    font-size:18px;
+    margin-right: 20px;
+    padding-top: 20px;
+}
+.exp{
+    background-color: white;
+    margin-left: 30px;
+    font-size:18px;
+    margin-right: 20px;
+    padding-top: 10px;
+   
+}
+.pro{
+    background-color: white;
+    margin-left: 30px;
+    font-size:18px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.vol{
+    background-color: white;
+    margin-left: 30px;
+    font-size:18px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cert{
+    background-color: white;
+    margin-left: 30px;
+    font-size:18px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact:after {
+     contain: "";
+     display:table;
+     clear:both;
+     box-sizing: border-box;
+}
+.col1{
+    border-radius: 5px;
+    float: left;
+  width: 400px;
+  padding: 10px;
+  height: 300px;
+  background-color: rgba(0, 0, 255, 0.199);
+}
+.col2{
+    float:right;
+  width: 410px;
+  padding: 10px;
+  height: 300px;
+  background-color: rgba(243, 122, 122, 0.788);
+  margin-right: 10px;
+  color:white;
+  border-radius: 5px;
+}
+.contact{
+    background-color: white;
+    margin-left: 10px;
+    font-size:18px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.col2 h3{
+ 
+    color:blue;
+}
+.col1 h3{
+ 
+    color:rgb(255, 0, 0);
+}
+.abt h2{
+    background-color: rgba(155, 18, 18, 0.479);
+    color:white;
+    margin-right: 500px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.exp h2{
+    background-color: rgba(18, 155, 64, 0.719);
+    color:white;
+    margin-right: 500px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.pro h2{
+    background-color: rgba(32, 44, 206, 0.479);
+    color:white;
+    margin-right: 500px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.vol h2{
+    background-color: rgba(240, 225, 22, 0.877);
+    color:black;
+    margin-right: 500px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.cert h2{
+    background-color: rgba(226, 220, 135, 0.877);
+    color:black;
+    margin-right: 500px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.col1 h3{
+    background-color: rgba(189, 42, 42, 0.87);
+    color:white;
+    margin-right: 100px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px; 
+}
+.col2 h3{
+    background-color: rgba(24, 68, 85, 0.87);
+    color:white;
+    margin-right: 100px;
+    padding-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px; 
+}
