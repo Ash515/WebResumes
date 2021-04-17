@@ -1,4 +1,4 @@
-# Web-Resumes 📝
+# Web Resumes 📝
 My own web resumes done at **Lyriclious Internship**
 
 # Tech Stack 👨‍💻
