@@ -2,7 +2,9 @@
 My own web resumes done at **Lyriclious Internship**
 
 # Tech Stack 👨‍💻
-- ReactJS
+- HTML
+- CSS
+- Javascript
 
 # Image Results 📎😎 
 
