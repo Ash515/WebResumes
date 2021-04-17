@@ -12,6 +12,7 @@ My own web resumes done at **Lyriclious Internship**
 # Web link 🔗
 
 [Resume 1](https://webresumes.glitch.me/Resume%201/index.htm)
+[Resume 2](https://webresumes.glitch.me/Resume%202/)
 
 # Developer 👨‍💻
 
