@@ -6,8 +6,8 @@ My own web resumes done at **Lyriclious Internship**
 
 # Image Results 📎😎 
 
-<img src="" width="400px"> <img src="" width="400px">
-<img src="" width="500px">
+<img src="Output images/OP1.png" width="400px"> <img src="Output images/OP2.png" width="400px">
+ <img src="Output images/OP3.png"  width="500px">
 # Developer 👨‍💻
 
 [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
