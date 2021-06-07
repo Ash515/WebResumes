@@ -1,22 +1,22 @@
 # Web Resumes 📝
 My own web resumes done at **Lyriclious Internship**
 
-# Tech Stack 👨‍💻
+## Tech Stack
 - HTML
 - CSS
 - Javascript
 
-# Image Results 📎😎 
+## Image Results 
 
 <img src="Output images/OP1.png" width="400px"> <img src="Output images/OP2.png" width="400px">
- <img src="Output images/OP3.png"  width="500px">
+<img src="Output images/OP3.png"  width="500px">
  
-# Web link 🔗
+## Web link 
 
 - [Resume 1](https://webresumes.glitch.me/Resume%201/index.htm)
 - [Resume 2](https://webresumes.glitch.me/Resume%202/)
 
-# Developer 👨‍💻
+## Developer
 
 [Ashwin Kumar Ramaswamy](https://github.com/Ash515)
 
